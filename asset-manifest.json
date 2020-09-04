@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/rohithund88/recipe-book.git/static/css/main.a810e88d.chunk.css",
+    "main.js": "/rohithund88/recipe-book.git/static/js/main.e2ca4aba.chunk.js",
+    "main.js.map": "/rohithund88/recipe-book.git/static/js/main.e2ca4aba.chunk.js.map",
+    "runtime-main.js": "/rohithund88/recipe-book.git/static/js/runtime-main.3cad367b.js",
+    "runtime-main.js.map": "/rohithund88/recipe-book.git/static/js/runtime-main.3cad367b.js.map",
+    "static/css/2.628ff138.chunk.css": "/rohithund88/recipe-book.git/static/css/2.628ff138.chunk.css",
+    "static/js/2.97394ee7.chunk.js": "/rohithund88/recipe-book.git/static/js/2.97394ee7.chunk.js",
+    "static/js/2.97394ee7.chunk.js.map": "/rohithund88/recipe-book.git/static/js/2.97394ee7.chunk.js.map",
+    "index.html": "/rohithund88/recipe-book.git/index.html",
+    "precache-manifest.91164d4cb03bfb613fbbc4d376433c60.js": "/rohithund88/recipe-book.git/precache-manifest.91164d4cb03bfb613fbbc4d376433c60.js",
+    "service-worker.js": "/rohithund88/recipe-book.git/service-worker.js",
+    "static/css/2.628ff138.chunk.css.map": "/rohithund88/recipe-book.git/static/css/2.628ff138.chunk.css.map",
+    "static/css/main.a810e88d.chunk.css.map": "/rohithund88/recipe-book.git/static/css/main.a810e88d.chunk.css.map",
+    "static/js/2.97394ee7.chunk.js.LICENSE.txt": "/rohithund88/recipe-book.git/static/js/2.97394ee7.chunk.js.LICENSE.txt",
+    "static/media/PomfretMasala.jpg": "/rohithund88/recipe-book.git/static/media/PomfretMasala.397eb471.jpg",
+    "static/media/hero.jpg": "/rohithund88/recipe-book.git/static/media/hero.9fba7914.jpg",
+    "static/media/logo.svg": "/rohithund88/recipe-book.git/static/media/logo.a9450607.svg",
+    "static/media/slick-theme.css": "/rohithund88/recipe-book.git/static/media/slick.f97e3bbf.svg",
+    "static/media/slide_broccoli.jpg": "/rohithund88/recipe-book.git/static/media/slide_broccoli.f27da1ea.jpg",
+    "static/media/slide_cake.jpg": "/rohithund88/recipe-book.git/static/media/slide_cake.6b45322b.jpg",
+    "static/media/slide_chicken.jpg": "/rohithund88/recipe-book.git/static/media/slide_chicken.b1ec0ca8.jpg",
+    "static/media/slide_frying.jpg": "/rohithund88/recipe-book.git/static/media/slide_frying.466f606c.jpg",
+    "static/media/slide_val.jpg": "/rohithund88/recipe-book.git/static/media/slide_val.66b61206.jpg",
+    "static/media/tandoori.jpg": "/rohithund88/recipe-book.git/static/media/tandoori.a0bcf735.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cad367b.js",
+    "static/css/2.628ff138.chunk.css",
+    "static/js/2.97394ee7.chunk.js",
+    "static/css/main.a810e88d.chunk.css",
+    "static/js/main.e2ca4aba.chunk.js"
+  ]
+}
